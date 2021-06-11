@@ -1,0 +1,1 @@
+/Users/ogmalladii/Documents/rust/mathrs/target/debug/mathrs: /Users/ogmalladii/Documents/rust/mathrs/src/lib.rs /Users/ogmalladii/Documents/rust/mathrs/src/main.rs /Users/ogmalladii/Documents/rust/mathrs/src/mstructs.rs /Users/ogmalladii/Documents/rust/mathrs/src/polynomials.rs
